@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Street Photographers
 
-You can use the [editor on GitHub](https://github.com/archondigital/street-index/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Jon Cuevas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Website: [archondigital.com](https://archondigital.com)
+- Instagram: [@archondigital](https://www.instagram.com/archondigital/)
+- Twitter: [@archondigital](https://twitter.com/archondigital)
+- Location: [Manila] (https://www.google.com/maps/place/Manila,+Metro+Manila/@14.5965788,120.9445403,13z/data=!3m1!4b1!4m5!3m4!1s0x3397ca03571ec38b:0x69d1d5751069c11f!8m2!3d14.5995124!4d120.9842195)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To add yourself in this directory project, please add your details in the following format;
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Jon Cuevas
 
-- Bulleted
-- List
+- Website: [archondigital.com](https://archondigital.com)
+- Instagram: [@archondigital](https://www.instagram.com/archondigital/)
+- Twitter: [@archondigital](https://twitter.com/archondigital)
+- Location: [Manila] (https://www.google.com/maps/place/Manila,+Metro+Manila/@14.5965788,120.9445403,13z/data=!3m1!4b1!4m5!3m4!1s0x3397ca03571ec38b:0x69d1d5751069c11f!8m2!3d14.5995124!4d120.9842195)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/archondigital/street-index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
